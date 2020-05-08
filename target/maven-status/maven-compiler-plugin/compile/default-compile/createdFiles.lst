@@ -1,0 +1,10 @@
+com\lina\business\ChecklistBusiness.class
+com\lina\checklistproject\Main.class
+com\lina\checklistproject\Checklist.class
+com\lina\business\ItemBusiness.class
+com\lina\dao\ChecklistDAO$1.class
+com\lina\checklistproject\Item.class
+com\lina\dao\ItemDAO.class
+com\lina\dao\ChecklistDAO.class
+com\lina\connection\Connect.class
+com\lina\myExceptions\CheckListIllegalArgumentException.class
